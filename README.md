@@ -1,1 +1,1 @@
-# okul
+# basit-web-sitesi
