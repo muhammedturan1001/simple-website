@@ -1,1 +1,1 @@
-# basit-web-sitesi
+# basit
