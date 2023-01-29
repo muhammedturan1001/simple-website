@@ -22,6 +22,7 @@ margin-left: 50px;
 margin-top: 20px;
 }
 
+
 .navbar .logo a{
     text-decoration: none;
     font-size: 30px;
@@ -66,7 +67,7 @@ margin-top: 20px;
 }
 
 .center h1, h2{
-    color: rgb(87, 5, 5);
+    color: rgb(66, 4, 4);
     font-size: 70px;
     font-weight: bold;
     width: 900 px;
